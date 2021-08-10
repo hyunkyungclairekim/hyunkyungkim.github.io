@@ -6,12 +6,12 @@ title: Hyunkyung Kim
 superuser: true
 
 # Role/position
-role: Bioinformatics Specialist
+role: PhD Student in Genetics
 
 # Organizations/Affiliations
 organizations:
-- name: Massachusetts General Hospital
-  url: "https://www.massgeneral.org/"
+- name: The University of Chicago
+  url: "https://www.uchicago.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests focus on understanding genetic mechanisms of complex diseases using computational approaches
@@ -23,9 +23,9 @@ interests:
 
 education:
   courses:
-#  - course: PhD in Computational Biology 
- #   institution: Harvard Medical School
- #   year: 2026
+  - course: PhD in Genetics 
+    institution: The University of Chicago
+    year: 2026
   - course: MSc in Computational Biology & Quantitative Genetics
     institution: Harvard T.H. Chan School of Public Health
     year: 2019
@@ -71,5 +71,5 @@ user_groups:
 - Visitors
 ---
 
-Hyunkyung Kim is a Bioinformatics Specialist at the Diabetes Research Center, Massachusetts General Hospital. Her research interests focus on understanding genetic mechanisms of complex diseases using computational approaches. 
+Hyunkyung Kim is a PhD Student in Genetics at the University of Chicago. Her research interests focus on understanding genetic mechanisms of complex diseases using computational approaches. 
 
